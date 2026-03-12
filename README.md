@@ -1,10 +1,10 @@
-# Sang-jun Ji
+# Sang-jun Ji (지상준)
 
 ### Pusan National University
 > Mechanical Engineering
 
 ### Current Research
-**Development of an AI-based automated spin-coating robot for Perovskite solar cells**
+- **Development of an AI-based automated spin-coating robot for Perovskite solar cells**
 
 ### Contact
 - [jsj528600@gmail.com](mailto:jsj528600@gmail.com)
