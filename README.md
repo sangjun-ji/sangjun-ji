@@ -4,7 +4,7 @@
 > Mechanical Engineering
 
 ### Current Research
-- **Development of an AI-based automated spin-coating Platform for Perovskite solar cells**
+- **Development of an AI-based automated spin-coating platform for perovskite solar cells**
 
 ### Contact
 - [jsj528600@gmail.com](mailto:jsj528600@gmail.com)
